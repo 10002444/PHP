@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7AF46658-3762-4DD6-9E07-E05EBC718E7D}|Default">
+  <MonoDevelop.Ide.ItemProperties.PHP FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="animals/Program.cs">
+    <Files>
+      <File FileName="Program.php" Line="9" Column="15" />
+      <File FileName="animals/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PHP" expanded="True">
+            <Node name="animals" expanded="True" selected="True" />
+            <Node name="PHP" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.animals FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

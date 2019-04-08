@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PHP", "PHP.csproj", "{7AF46658-3762-4DD6-9E07-E05EBC718E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animals", "animals\animals.csproj", "{1A499A0F-C54D-44B7-8A99-A5FA7C92F9F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF46658-3762-4DD6-9E07-E05EBC718E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF46658-3762-4DD6-9E07-E05EBC718E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF46658-3762-4DD6-9E07-E05EBC718E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF46658-3762-4DD6-9E07-E05EBC718E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A499A0F-C54D-44B7-8A99-A5FA7C92F9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A499A0F-C54D-44B7-8A99-A5FA7C92F9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A499A0F-C54D-44B7-8A99-A5FA7C92F9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A499A0F-C54D-44B7-8A99-A5FA7C92F9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
